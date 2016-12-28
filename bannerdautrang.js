@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2iw4nQW' target='_blank'><img src='http://media.baogiaothong.vn/files/duong.ngo/2016/12/05/can-ho-vincity-700-trieu-vincom-1209.jpg' width='500px'/><br/>Đăng ký ngay nhận ưu đãi lớn</a>. Chiết khấu cao. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2iw4nQW' target='_blank'><img src='https://lh3.googleusercontent.com/-1p1Zxu8ItWM/WGM4u5F3tlI/AAAAAAAAAGw/AaLbvOiIlJMIoys8pLAEMPWTQnqDIiiTACL0B/w316-h108-no/15050035_698315150335602_751433675_n.jpg' width='500px'/><br/>Đăng ký ngay nhận ưu đãi lớn</a>. Chiết khấu cao. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
