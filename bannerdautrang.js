@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2iw4nQW' target='_blank'><img src='https://lh6.googleusercontent.com/-tMcACRug9r0/WGNEKWaiWBI/AAAAAAAAAHE/xB4J8yCxdTIhKzSZyR7Nuf7ehy17joCBACL0B/w1022-h575-no/44.jpg' width='500px'/><br/>Đăng ký ngay nhận ưu đãi lớn</a>. Chiết khấu cao. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2iw4nQW' target='_blank'><img src='https://lh6.googleusercontent.com/-tMcACRug9r0/WGNEKWaiWBI/AAAAAAAAAHE/xB4J8yCxdTIhKzSZyR7Nuf7ehy17joCBACL0B/w1022-h575-no/44.jpg' width='500px'/><br/>Đợt giảm giá cuối cùng trong năm</a>. Ưu đãi chỉ còn 150k/sản phẩm. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
